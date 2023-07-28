@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hola, mi nombre es Javier 👋
+### Estudio Ingeniería de Telecomunicaciones (especialización en Imagen y Sonido) 🎹
+### I study Telecommunications Engineering 📡
+
+- 🌱 I’m currently learning about Web Development & Cybersecurity
 
 <!--
 **XxJaviMadxX/XxJaviMadxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
