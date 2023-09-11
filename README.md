@@ -1,4 +1,5 @@
 # Hola, mi nombre es Javier 👋
+# Hi, I'm Javier 🚀
 ### Estudio Ingeniería de Telecomunicaciones (especialización en Imagen y Sonido) 🎹
 ### I study Telecommunications Engineering 📡
 
