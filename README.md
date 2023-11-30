@@ -1,6 +1,7 @@
 # Hi there, I'm Javier Ortiz Millan! 👋
 
-📡 Telecommunications Engineering At Carlos III University - Leganes 
+📡 Telecommunications Engineering At Carlos III University - Leganes
+
 🔊 Concentration in Sound and Image | 💻 Programming Enthusiast
 
 📍 Madrid, Spain 
