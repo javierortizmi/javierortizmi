@@ -29,4 +29,4 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Javier_Ortiz_Millan-orange?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-ortiz-millan/)](https://www.linkedin.com/in/javier-ortiz-millan/)
 [![Twitter Badge](https://img.shields.io/badge/-javierortizmi-orange?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/javierortizmi)](https://twitter.com/javierortizmi)
-[![GitHub Badge](https://img.shields.io/badge/-javierortizmi-orange?style=flat&logo=GitHub&logoColor=white&link=https://github.com/XxJaviMadxX)](https://github.com/XxJaviMadxX)
+[![GitHub Badge](https://img.shields.io/badge/-javierortizmi-orange?style=flat&logo=GitHub&logoColor=white&link=https://github.com/XxJaviMadxX)](https://github.com/javierortizmi)
