@@ -5,7 +5,7 @@
 
 📍 Madrid, Spain 
 
-🔗 [Linkedin](https://linkedin.com/in/javier-ortiz-millan) | 📨 [Email](mailto:javierortizmi@gmail.com) | 🐦 [Twitter](https://twitter.com/javierortizmi) | 💻 [GitHub](https://github.com/XxJaviMadxX) | 🌐 [Personal Website](#) (In progress...)
+🔗 [Linkedin](https://linkedin.com/in/javier-ortiz-millan) | 📨 [Email](mailto:javierortizmi@gmail.com) | 🌐 [Personal Website](#) (In progress...)
 
 ## Study Abroad 🌎
 
@@ -43,7 +43,7 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 [![Twitter](https://img.shields.io/badge/Twitter-@javierortizmi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javierortizmi)
 [![Instagram](https://img.shields.io/badge/Instagram-@javierortizmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/javierortizmi)
 [![TikTok](https://img.shields.io/badge/TikTok-@javierortizmi-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@javierortizmi)
-[![Facebook](https://img.shields.io/badge/Facebook-@javierortizmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/javierortizmi)
 </br>
+[![Facebook](https://img.shields.io/badge/Facebook-@javierortizmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/javierortizmi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Ortiz_Millan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-ortiz-millan)
 [![Web](https://img.shields.io/badge/Web-JavierOrtizMi.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](#) (In progress ...)
