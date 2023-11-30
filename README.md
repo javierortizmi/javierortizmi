@@ -16,7 +16,9 @@
 
 ## About me 👾
 
-I'm a Telecommunications Engineering student at the Carlos III University - Leganes, Madrid. I am passionate about developing innovative solutions using cutting-edge technologies. 
+I'm a Telecommunications Engineering student at the Carlos III University - Leganes, Madrid. 
+
+🌟 Passionate about developing innovative solutions using cutting-edge technologies. 
 
 🌱 I’m currently learning about Web Development, Cybersecurity, AI & Machine Learning.
 
