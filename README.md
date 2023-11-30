@@ -9,7 +9,7 @@
 
 ## Study Abroad 🌎
 
-🖥️⚡ Computer & Electrical Engineering At University of Maryland - College Park
+🖥️⚡ Computer & Electrical Engineering At University of Maryland - College Park, MD
 
 🤖 Leatherbacks UMD
 
