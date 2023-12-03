@@ -1,4 +1,4 @@
-# Hi there, I'm Javier Ortiz Millan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there, I'm Javier Ortiz Millan! <img src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/main/media/Hi.gif" width="30px">
 
 📡 Telecommunications Engineering At Carlos III University - Leganes
 
