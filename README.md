@@ -10,7 +10,7 @@
 
 ## Study Abroad 🌎
 
-🖥️⚡ Computer & Electrical Engineering At University of Maryland - College Park, MD
+🖥️⚡ Computer & Electrical Engineering at University of Maryland - College Park, MD
 
 🤖 Leatherbacks UMD
 
@@ -20,9 +20,9 @@ I'm a Telecommunications Engineering student at the Carlos III University - Lega
 
 🌟 Passionate about developing innovative solutions using cutting-edge technologies. 
 
-🌱 I’m currently learning about Web Development, Cybersecurity, AI & Machine Learning.
+🌱 Currently learning about Web Development, Cybersecurity, AI & Machine Learning.
 
-When I'm not doing engineer things, I enjoy doing sport, exploring new tech trends, listening to music or gaming.
+💡 When I'm not doing engineering things, I enjoy doing sport, exploring new tech trends, listening to music or gaming.
 
 ## Technologies & Tools 👨🏻‍💻
 
