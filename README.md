@@ -39,6 +39,31 @@ I'm a Telecommunications Engineering student at the Carlos III University - Lega
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+## Recent Projects 📂
+
+<ul>
+  <li>
+    [Autonomous Vehicle System](https://github.com/javierortizmi/AutonomousVehicle)
+  </li>
+</ul>
+
+## Learning Topics 🧠
+
+<ul>
+  <li>
+    [Artificial Intelligence and Machine Learning](https://github.com/javierortizmi/ArtificialIntelligence)
+  </li>
+  <li>
+    [App Development](https://github.com/javierortizmi/AppDevelopment)
+  </li>
+  <li>
+    [Cybersecurity](https://github.com/javierortizmi/Cybersecurity)
+  </li>
+  <li>
+    [Web Development](https://github.com/javierortizmi/WebDevelopment)
+  </li>
+</ul>
+
 ## Let's Connect! 📲
 
 Feel free to reach out if you're interested in collaborating on a project, have any questions, or just want to chat!
