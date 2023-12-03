@@ -43,7 +43,7 @@ I'm a Telecommunications Engineering student at the Carlos III University - Lega
 
 <ul>
   <li>
-    [Autonomous Vehicle System](https://github.com/javierortizmi/AutonomousVehicle)
+    <a href="https://github.com/javierortizmi/AutonomousVehicle" target="_blank">Autonomous Vehicle System</a>
   </li>
 </ul>
 
@@ -51,16 +51,16 @@ I'm a Telecommunications Engineering student at the Carlos III University - Lega
 
 <ul>
   <li>
-    [Artificial Intelligence and Machine Learning](https://github.com/javierortizmi/ArtificialIntelligence)
+    <a href="https://github.com/javierortizmi/ArtificialIntelligence" target="_blank">Artificial Intelligence and Machine Learning</a>
   </li>
   <li>
-    [App Development](https://github.com/javierortizmi/AppDevelopment)
+    <a href="https://github.com/javierortizmi/AppDevelopment" target="_blank">App Development</a>
   </li>
   <li>
-    [Cybersecurity](https://github.com/javierortizmi/Cybersecurity)
+    <a href="https://github.com/javierortizmi/Cybersecurity" target="_blank">Cybersecurity</a>
   </li>
   <li>
-    [Web Development](https://github.com/javierortizmi/WebDevelopment)
+    <a href="https://github.com/javierortizmi/WebDevelopment" target="_blank">Web Development</a>
   </li>
 </ul>
 
