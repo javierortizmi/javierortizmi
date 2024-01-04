@@ -73,5 +73,5 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 [![TikTok](https://img.shields.io/badge/TikTok-@javierortizmi-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@javierortizmi)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-@javierortizmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/javierortizmi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Ortiz_Millan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-ortiz-millan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javierortizmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierortizmi)
 [![Web](https://img.shields.io/badge/Web-JavierOrtizMi.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](#)
