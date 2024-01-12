@@ -6,7 +6,7 @@
 
 📍 Madrid, Spain
 
-🔗 [Linkedin](https://linkedin.com/in/javier-ortiz-millan) | 📨 [Email](mailto:javierortizmi@gmail.com) | 🌐 [Personal Website](javierortizmi.com)
+🔗 [Linkedin](https://linkedin.com/in/javier-ortiz-millan) | 📨 [Email](mailto:javierortizmi@gmail.com) | 🌐 [Personal Website](https://javierortizmi.com)
 
 ## Recent Projects 📂
 
