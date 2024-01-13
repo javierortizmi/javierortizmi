@@ -46,8 +46,8 @@
 
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](https://developer.android.com/studio)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinlang.org/)
-[<img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" style="background-color:black;padding:4px 5px;"/>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com/)
+<img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" style="background-color:black;padding:4px 5px;"/>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black)](https://firebase.google.com/)
 [![Google_Ads](https://img.shields.io/badge/Google_Ads-%234285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=black)](https://ads.google.com/)
 
