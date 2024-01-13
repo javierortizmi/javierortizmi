@@ -25,40 +25,40 @@
 
 - AI and Machine Learning
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black)](https://www.tensorflow.org/)
 
 - Web Development
 
-![React](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
-![Node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
-![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black)
-![Tailwind_CSS](https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)
-![Framer](https://img.shields.io/badge/framer_motion-%230055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=black)
-![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
+[![React](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black)](https://nextjs.org/)
+[![Tailwind_CSS](https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)](https://tailwindcss.com/)
+[![Framer](https://img.shields.io/badge/framer_motion-%230055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=black)](https://www.framer.com/)
+[![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black)](https://www.prisma.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)](https://aws.amazon.com/)
 
 - App Development
 
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
-<img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" style="background-color:black;padding:4px 5px;"/>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black)
-![Google_Ads](https://img.shields.io/badge/Google_Ads-%234285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=black)
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](https://developer.android.com/studio)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinlang.org/)
+[<img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" style="background-color:black;padding:4px 5px;"/>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black)](https://firebase.google.com/)
+[![Google_Ads](https://img.shields.io/badge/Google_Ads-%234285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=black)](https://ads.google.com/)
 
 - Circuit Design and Electronics
 
-![C](https://img.shields.io/badge/programming_language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black)
-![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=black)
-![Raspberry_PI](https://img.shields.io/badge/Raspberry%20PI-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=black)
-![ESPHome](https://img.shields.io/badge/ESPHome-%23E7352C?style=for-the-badge&logo=esphome&logoColor=white&labelColor=black)
-![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=black)
+[![C](https://img.shields.io/badge/programming_language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=black)](https://www.st.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=black)](https://www.arduino.cc/)
+[![Raspberry_PI](https://img.shields.io/badge/Raspberry%20PI-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=black)](https://www.raspberrypi.org/)
+[![ESPHome](https://img.shields.io/badge/ESPHome-%23E7352C?style=for-the-badge&logo=esphome&logoColor=white&labelColor=black)](https://esphome.io/)
+[![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=black)](https://www.kicad.org/)
 
 ## About me 👾
 
