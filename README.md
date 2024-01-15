@@ -27,6 +27,7 @@
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black)](https://pytorch.org/)
 
 - Web Development
 
