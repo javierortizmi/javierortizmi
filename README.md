@@ -84,8 +84,10 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Ortiz_Millan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierortizmi)
 [![Web](https://img.shields.io/badge/Web-JavierOrtizMi.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javierortizmi.com)
 [![Mail](https://img.shields.io/badge/EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:javierortizmi@gmail.com)
-
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-@javierortizmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/javierortizmi)
 [![Twitter](https://img.shields.io/badge/Twitter-@javierortizmi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javierortizmi)
 [![Facebook](https://img.shields.io/badge/Facebook-@javierortizmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/javierortizmi)
 [![TikTok](https://img.shields.io/badge/TikTok-@javierortizmi-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@javierortizmi)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=javierortizmi&theme=onedark)](https://git.io/streak-stats)
