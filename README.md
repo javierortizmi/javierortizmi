@@ -90,4 +90,4 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 [![Facebook](https://img.shields.io/badge/Facebook-@javierortizmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/javierortizmi)
 [![TikTok](https://img.shields.io/badge/TikTok-@javierortizmi-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@javierortizmi)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=javierortizmi&theme=onedark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javierortizmi&theme=one-dark-pro" alt="GitHub Streak" /></a>
