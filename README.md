@@ -1,4 +1,4 @@
-# Hi there, I'm Javier Ortiz Millan! <img alt="Hand-waving" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/main/media/Hi.gif" width="30px">
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=3500&pause=200&color=22D3EE&center=true&vCenter=true&random=false&width=500&height=30&lines=Hi+there!;I'm+Javier+Ortiz+Millan!)](https://git.io/typing-svg) <img alt="Hand-waving" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/main/media/Hi.gif" width="40px">
 
 📡 Telecommunications Engineering At Carlos III University - Leganes
 
@@ -6,7 +6,10 @@
 
 📍 Madrid, Spain
 
-🔗 [Linkedin](https://linkedin.com/in/javier-ortiz-millan) | 📨 [Email](mailto:javierortizmi@gmail.com) | 🌐 [Personal Website](https://javierortizmi.com)
+[![LinkedIn](https://img.shields.io/badge/JAVIERORTIZMI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierortizmi)
+[![Mail](https://img.shields.io/badge/JAVIERORTIZMI@GMAIL.COM-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:javierortizmi@gmail.com)
+[![Web](https://img.shields.io/badge/Web-JavierOrtizMi.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javierortizmi.com)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjavierortizmi&countColor=%23263759)
 
 ## Recent Projects 📂
 
@@ -83,7 +86,7 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Ortiz_Millan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javierortizmi)
 [![Web](https://img.shields.io/badge/Web-JavierOrtizMi.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javierortizmi.com)
-[![Mail](https://img.shields.io/badge/EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:javierortizmi@gmail.com)
+[![Mail](https://img.shields.io/badge/JAVIERORTIZMI@GMAIL.COM-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:javierortizmi@gmail.com)
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-@javierortizmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/javierortizmi)
 [![Twitter](https://img.shields.io/badge/Twitter-@javierortizmi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javierortizmi)
