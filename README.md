@@ -64,6 +64,17 @@
 [![ESPHome](https://img.shields.io/badge/ESPHome-%23E7352C?style=for-the-badge&logo=esphome&logoColor=white&labelColor=black)](https://esphome.io/)
 [![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=black)](https://www.kicad.org/)
 
+## My Contributions 🐍
+
+## Stats ⚡
+
+<div align=center>
+  <img width=410 src="https://streak-stats.demolab.com?user=javierortizmi&theme=one-dark-pro" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=javierortizmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br>
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierortizmi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 ## About me 👾
 
 I'm a Telecommunications Engineering student at the Carlos III University - Leganes, Madrid.
@@ -92,5 +103,3 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 [![Twitter](https://img.shields.io/badge/Twitter-@javierortizmi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/javierortizmi)
 [![Facebook](https://img.shields.io/badge/Facebook-@javierortizmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/javierortizmi)
 [![TikTok](https://img.shields.io/badge/TikTok-@javierortizmi-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@javierortizmi)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javierortizmi&theme=one-dark-pro" alt="GitHub Streak" /></a>
