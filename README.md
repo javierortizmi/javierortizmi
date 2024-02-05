@@ -1,4 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&duration=3500&pause=200&color=22D3EE&center=true&vCenter=true&random=false&width=500&height=30&lines=Hi+there!;I'm+Javier+Ortiz+Millan!)](https://git.io/typing-svg) <img alt="Hand-waving" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/main/media/Hi.gif" width="40px">
+<div style="display: flex;align-items: center;justify-content: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch+Pop&size=36&duration=2000&pause=500&color=FFFFFF&vCenter=true&random=false&width=330&height=80&lines=Hi+there!;I'm+Javier+Ortiz!" alt="Typing SVG" />
+  <img alt="Hand-waving" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/main/media/Hi.gif" width="40px">
+</div>
 
 📡 Telecommunications Engineering At Carlos III University - Leganes
 
@@ -11,20 +14,24 @@
 [![Web](https://img.shields.io/badge/Web-JavierOrtizMi.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://javierortizmi.com)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjavierortizmi&countColor=%23263759)
 
-## Recent Projects 📂
+## 📂 Recent Projects 💡
 
 - <a href="https://github.com/javierortizmi/PersonalPortfolio" target="_blank">Personal Portfolio</a>
 - <a href="https://github.com/javierortizmi/MusicPlayerApp" target="_blank">Music Player App</a>
 - <a href="https://github.com/javierortizmi/AutonomousVehicle" target="_blank">Autonomous Vehicle System</a>
 
-## Learning Topics 🧠
+## 🧠 Learning Topics 🎓
 
 - <a href="https://github.com/javierortizmi/ArtificialIntelligence" target="_blank">Artificial Intelligence and Machine Learning</a>
 - <a href="https://github.com/javierortizmi/WebDevelopment" target="_blank">Web Development</a>
 - <a href="https://github.com/javierortizmi/AppDevelopment" target="_blank">App Development</a>
 - <a href="https://github.com/javierortizmi/Cybersecurity" target="_blank">Cybersecurity</a>
 
-## Technologies & Tools 👨🏻‍💻
+## 🐍 Contributions 🐍
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/output/github-contribution-grid-snake.svg" />
+
+## 👨🏻‍💻 Technologies & Tools ⚡
 
 - AI and Machine Learning
 
@@ -50,34 +57,21 @@
 
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](https://developer.android.com/studio)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://kotlinlang.org/)
-<img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" style="background-color:black;padding:4px 5px;"/>
+<a href="https://www.java.com/"><img width="20" height="20" src="https://img.icons8.com/ios/50/FFFFFF/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1" style="background-color:black;padding:4px 5px;"/></a>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black)](https://firebase.google.com/)
 [![Google_Ads](https://img.shields.io/badge/Google_Ads-%234285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=black)](https://ads.google.com/)
 
 - Circuit Design and Electronics
 
-[![C](https://img.shields.io/badge/programming_language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/programming_language-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-%2303234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=black)](https://www.st.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=black)](https://www.arduino.cc/)
 [![Raspberry_PI](https://img.shields.io/badge/Raspberry%20PI-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=black)](https://www.raspberrypi.org/)
 [![ESPHome](https://img.shields.io/badge/ESPHome-%23E7352C?style=for-the-badge&logo=esphome&logoColor=white&labelColor=black)](https://esphome.io/)
 [![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=black)](https://www.kicad.org/)
 
-## My Contributions 🐍
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/output/github-contribution-grid-snake.svg" />
-
-## Stats ⚡
-
-<div align=center>
-  <img width=410 src="https://streak-stats.demolab.com?user=javierortizmi&theme=one-dark-pro" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=javierortizmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br>
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierortizmi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-## About me 👾
+## 👾 About me 🏀
 
 I'm a Telecommunications Engineering student at the Carlos III University - Leganes, Madrid.
 
@@ -87,13 +81,13 @@ I'm a Telecommunications Engineering student at the Carlos III University - Lega
 
 💡 When I'm not doing engineering things, I enjoy doing sport, exploring new tech trends, listening to music or gaming.
 
-## Study Abroad 🌎
+## 🌎 Study Abroad 🌍
 
 🖥️⚡ Computer & Electrical Engineering at University of Maryland - College Park, MD
 
 🤖 Leatherbacks UMD
 
-## Let's Connect! 📲
+## 📲 Let's Connect! 📶
 
 Feel free to reach out if you're interested in collaborating on a project, have any questions, or just want to chat!
 
