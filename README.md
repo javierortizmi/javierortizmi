@@ -26,10 +26,6 @@
 - <a href="https://github.com/javierortizmi/AppDevelopment" target="_blank">App Development</a>
 - <a href="https://github.com/javierortizmi/Cybersecurity" target="_blank">Cybersecurity</a>
 
-## 🐍 Contributions 🐍
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/output/github-contribution-grid-snake.svg" />
-
 ## 👨🏻‍💻 Technologies & Tools ⚡
 
 - AI and Machine Learning
@@ -69,6 +65,10 @@
 [![Raspberry_PI](https://img.shields.io/badge/Raspberry%20PI-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=black)](https://www.raspberrypi.org/)
 [![ESPHome](https://img.shields.io/badge/ESPHome-%23E7352C?style=for-the-badge&logo=esphome&logoColor=white&labelColor=black)](https://esphome.io/)
 [![KiCad](https://img.shields.io/badge/KiCad-%23314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=black)](https://www.kicad.org/)
+
+## 🐍 Contributions 🐍
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/javierortizmi/javierortizmi/output/github-contribution-grid-snake.svg" />
 
 ## 👾 About me 🏀
 
