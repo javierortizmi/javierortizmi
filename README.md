@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch+Pop&size=36&duration=2000&pause=500&color=FFFFFF&vCenter=true&random=false&width=330&height=80&lines=Hi+there!;I'm+Javier+Ortiz!" alt="Typing SVG" />
 </div>
 
-📡 Telecommunications Engineering At Carlos III University - Leganes
+📡 Telecommunications Engineering @ Carlos III University - Leganes
 
 🔊 Concentration in Sound and Image | 💻 Programming Enthusiast
 
